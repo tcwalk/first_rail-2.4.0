@@ -1,5 +1,14 @@
 # README
 
+
+# Ruby on Rails Tutorial: first application
+This is the first application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+I'm trying to complete the tutorial using the newer versions, Ruby 2.4.0 and Rails 5.0.2
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
