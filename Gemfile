@@ -12,9 +12,9 @@ ruby '2.4.0'
 gem 'rails', '~> 5.0.2'
 
 # Use sqlite3 as the database for Active Record
-group :development, :test do
-   gem 'sqlite3', '1.3.13'
-end
+#group :development, :test do
+#   gem 'sqlite3', '1.3.13'
+#end
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
